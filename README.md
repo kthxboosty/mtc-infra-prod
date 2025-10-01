@@ -1,2 +1,2 @@
-# mtc-infra-prod
-infra code for MTC
+# This prod repository is for infra developers.
+Last modified by kthxboosty.
